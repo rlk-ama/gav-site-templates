@@ -8,7 +8,6 @@ module.exports = function(grunt) {
           "subscription.html": "app/subscription.html",
           "about.html": "app/about.html",
           "janaa.html": "app/janaa.html",
-          "outofthecube.html": "app/outofthecube.html",
           "rene_prou.html": "app/rene_prou.html",
           "performdoc.html": "app/performdoc.html",
           "overview.html": "app/overview.html",
