@@ -11,6 +11,7 @@ module.exports = function(grunt) {
           "rene_prou.html": "app/rene_prou.html",
           "performdoc.html": "app/performdoc.html",
           "overview.html": "app/overview.html",
+          "consultancy.html": "app/consultancy.html",
         }
       },
     },
