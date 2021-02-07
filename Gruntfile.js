@@ -5,13 +5,10 @@ module.exports = function(grunt) {
       build: {  
         files: {  
           "index.html": "app/index.html",
-          "subscription.html": "app/subscription.html",
           "about.html": "app/about.html",
           "janaa.html": "app/janaa.html",
           "rene_prou.html": "app/rene_prou.html",
           "performdoc.html": "app/performdoc.html",
-          "overview.html": "app/overview.html",
-          "consultancy.html": "app/consultancy.html",
         }
       },
     },
